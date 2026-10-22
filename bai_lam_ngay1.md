@@ -1,9 +1,9 @@
 # BÀI LÀM – ÔN TẬP NGÀY 1
 
-- **Họ tên:**
-- **Lớp:**
-- **Link repository:**
-- **Hệ điều hành (Windows/macOS):**
+- **Họ tên:Lê Đặng Thanh Tú**
+- **Lớp: CNTT2**
+- **Link repository: https://github.com/thanhtu04032008-cloud/HNKS26CNTT2_Nhap-mon-CNTT_OnTap-Ngay1/edit/main/bai_lam_ngay1.md**
+- **Hệ điều hành (Windows/macOS): Windows**
 
 ## Phần A. Tổ chức thư mục bằng GUI
 
